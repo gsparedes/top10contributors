@@ -1,0 +1,11 @@
+{
+  "name": "top10Contributors",
+  "version": "0.0.0",
+  "description": "Query top 10 contributors of particular GitHub repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giancarlo Paredes <gcarloparedes@gmail.com>",
+  "license": "ISC"
+}
