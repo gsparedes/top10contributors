@@ -7,13 +7,11 @@ the top 10 contributors.
 
 #### Usage
 
-$ npm install -g top-contributors
-
-$ node top-contributors.js "repo/name"
+$ node index.js "repo/name"
 
 #### Example
 
-$ node top-contributors.js "winjs/winjs"
+$ node index.js "winjs/winjs"
 
 which gives you a sorted array of results:
 
