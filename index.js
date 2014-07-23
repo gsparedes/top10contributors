@@ -1,6 +1,4 @@
-module.exports.topContributors = process.env.MOCHA_COV ?
-    require('./lib-cov/top-contributors').topContributors:
-    require('./lib/top-contributors').topContributors;
+module.exports.topContributors = require('./lib/top-contributors').topContributors;
 
 if (!module.parent) {
 
