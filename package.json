@@ -1,6 +1,6 @@
 {
-  "name": "top10Contributors",
-  "version": "0.0.0",
+  "name": "top10contributors",
+  "version": "0.0.1",
   "description": "Query top 10 contributors of particular GitHub repo.",
   "main": "index.js",
   "scripts": {

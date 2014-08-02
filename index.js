@@ -1,11 +1,11 @@
-module.exports.topContributors = require('./lib/top-contributors').topContributors;
+module.exports.topContributors = require('./lib/top-contributors').topcontributors;
 
 if (!module.parent) {
 
     var program = require('commander');
 
     program
-      .version('0.0.0')
+      .version('0.0.1')
       .on('--help',
         function () {
             console.log('  Usage:');
